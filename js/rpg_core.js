@@ -876,7 +876,7 @@ Bitmap.prototype.initialize = function(width, height) {
      * @property textColor
      * @type String
      */
-    this.textColor = '#edb4a1';
+    this.textColor = '#ffffff';
 
     /**
      * The color of the outline of the text in CSS format.
