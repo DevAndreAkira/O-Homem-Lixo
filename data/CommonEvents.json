@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":230,"indent":0,"parameters":[220]},{"code":121,"indent":0,"parameters":[5,5,0]},{"code":205,"indent":0,"parameters":[0,{"list":[{"code":29,"parameters":[5],"indent":null},{"code":3,"indent":null},{"code":0}],"repeat":true,"skippable":false,"wait":false}]},{"code":505,"indent":0,"parameters":[{"code":29,"parameters":[5],"indent":null}]},{"code":505,"indent":0,"parameters":[{"code":3,"indent":null}]},{"code":0,"indent":0,"parameters":[]}],"name":"Movendo onibus","switchId":5,"trigger":0},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
